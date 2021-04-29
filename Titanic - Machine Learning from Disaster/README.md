@@ -4,9 +4,8 @@
 
 Essa análise é referente a famosa e tradicional competição na plataforma Kaggle sobre como desenvolver um modelo que consiga predizer que sobreviveu ou não ao acidente do Titanic a partir de algumas features do passageiros presentes a bordo.
 
-Mais informações acerca da competição podem ser obtidas clicando [aqui](https://www.kaggle.com/c/titanic).
+Mais informações acerca da competição podem ser obtidas clicando [aqui](https://www.kaggle.com/c/titanic). Sinta-se a vontade em deixar sua contrinuição e apontar possíveis melhorias e/ou pontos de vista diferentes da análise feita :smiley:
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FRMS_Titanic&psig=AOvVaw06nV-Ex1K2ALYI7_DSKUv7&ust=1619786267065000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjgg668o_ACFQAAAAAdAAAAABAD
-" width = 100%>
+  <img src="https://aventurasnahistoria.uol.com.br/media/_versions/titanic_cgzvpEm_widexl.jpg" width = 100%>
 </p>
