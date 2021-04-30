@@ -1,4 +1,4 @@
-# Shopping, clientes e K-means Clusters
+# Shopping, Clientes e K-means Clusters
 
 
 
